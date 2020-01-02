@@ -1,0 +1,61 @@
+
+A:link {
+	COLOR: #000000;
+	TEXT-DECORATION: none
+}
+
+.visited {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-size: 17px;
+	TEXT-DECORATION: none
+}
+
+A:hover 
+{
+	COLOR: #FF0000;
+	TEXT-DECORATION: none
+}
+
+.bold
+ {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	
+}
+
+.buttons {
+	font-family: Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+	font-size: 17px;
+	TEXT-DECORATION: none
+}
+
+.ptext {
+	font-family: Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+	font-size: 17px;
+	TEXT-DECORATION: none
+}
+
+
+.ptextbold {
+	font-family: Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.textbold2 {
+	font-family: Arial, Helvetica, sans-serif;
+	COLOR: #999999;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.smalltex {
+	font-family: Arial, Helvetica, sans-serif;
+	COLOR: #000000;
+	font-size: 15px;
+}
+
