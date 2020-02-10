@@ -5,6 +5,28 @@ font-family: 'Lato-Semibold.ttf';
 
 }
 
+A:link {
+	font-family: Lato, Arial, Helvetica, sans-serif;
+	COLOR: #FFFFFF;
+	font-size: 20px;
+	TEXT-DECORATION: none
+}
+
+A:hover 
+{
+	font-family: Lato-Semibold, Arial, Helvetica, sans-serif;
+	COLOR: #FFFFFF;
+	font-size: 20px;
+	font-weight: bold;
+	TEXT-DECORATION: none
+}
+.visited {
+	font-family: Lato, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 20px;
+	TEXT-DECORATION: none
+}
+
 .big-text {
 	font-family: Lato, Arial, Helvetica, sans-serif;
 	COLOR: #ffffff;
@@ -47,3 +69,4 @@ font-family: 'Lato-Semibold.ttf';
 	font-weight: bold;
 	letter-spacing: 7px;
 }
+
