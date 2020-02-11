@@ -1,0 +1,88 @@
+
+
+@font-face {
+	font-family: Lato;
+	src: url('Lato-Thin.ttf');
+}
+
+
+A:link {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px;
+	TEXT-DECORATION: none
+}
+
+A:hover 
+{
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px;
+	font-weight: bold;
+	TEXT-DECORATION: none
+}
+.visited {
+	font-family: Lato;
+	color: #000000;
+	font-size: 20px;
+	TEXT-DECORATION: none
+}
+
+.big-text {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 90px;
+	letter-spacing: 14px;
+}
+
+
+.text {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px; 
+}
+
+
+.text2 {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px;
+	letter-spacing: 10px; 
+}
+
+.text3 {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px;
+	line-height: 165%; 
+}
+
+.small_text {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 12px; 
+	letter-spacing: 5px;
+}
+
+.boldtext {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 200%;
+}
+
+.number {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 16px;
+	letter-spacing: 4px;
+}
+.number_bold {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 16px;
+	font-weight: bold;
+	letter-spacing: 7px;
+}
+
