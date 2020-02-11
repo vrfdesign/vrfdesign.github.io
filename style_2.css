@@ -1,12 +1,12 @@
 @font-face{
-
+src: url('Lato-Thin.ttf');
 font-family: 'Lato-Thin.ttf';
 font-family: 'Lato-Semibold.ttf';
 
 }
 
 A:link {
-	font-family: Lato, Arial, Helvetica, sans-serif;
+	font-family: Lato;
 	COLOR: #FFFFFF;
 	font-size: 20px;
 	TEXT-DECORATION: none
@@ -14,21 +14,21 @@ A:link {
 
 A:hover 
 {
-	font-family: Lato-Semibold, Arial, Helvetica, sans-serif;
+	font-family: Lato-Semibold;
 	COLOR: #FFFFFF;
 	font-size: 20px;
 	font-weight: bold;
 	TEXT-DECORATION: none
 }
 .visited {
-	font-family: Lato, Arial, Helvetica, sans-serif;
+	font-family: Lato;
 	color: #FFFFFF;
 	font-size: 20px;
 	TEXT-DECORATION: none
 }
 
 .big-text {
-	font-family: Lato, Arial, Helvetica, sans-serif;
+	font-family: Lato;
 	COLOR: #ffffff;
 	font-size: 90px;
 	letter-spacing: 17px;
@@ -36,14 +36,14 @@ A:hover
 
 
 .text {
-	font-family: Lato, Arial, Helvetica, sans-serif;
+	font-family: Lato;
 	COLOR: #ffffff;
 	font-size: 20px; 
 }
 
 
 .text2 {
-	font-family: Lato, Arial, Helvetica, sans-serif;
+	font-family: Lato;
 	COLOR: #ffffff;
 	font-size: 20px;
 	letter-spacing: 10px; 
@@ -51,19 +51,19 @@ A:hover
 
 
 .boldtext {
-	font-family: Lato-Semibold, Arial, Helvetica, sans-serif;
+	font-family: Lato-Semibold;
 	COLOR: #ffffff;
 	font-size: 20px;
 }
 
 .number {
-	font-family: Lato-Semibold, Arial, Helvetica, sans-serif;
+	font-family: Lato-Semibold;
 	COLOR: #ffffff;
 	font-size: 16px;
 	letter-spacing: 4px;
 }
 .number_bold {
-	font-family: Lato-Semibold, Arial, Helvetica, sans-serif;
+	font-family: Lato-Semibold;
 	COLOR: #ffffff;
 	font-size: 16px;
 	font-weight: bold;
