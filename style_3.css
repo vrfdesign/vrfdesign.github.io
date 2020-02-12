@@ -5,28 +5,14 @@
 	src: url('Lato-Thin.ttf');
 }
 
-
-A:link {
+.head {
 	font-family: Lato;
 	COLOR: #000000;
 	font-size: 20px;
-	TEXT-DECORATION: none
+	letter-spacing: 10px; 
 }
 
-A:hover 
-{
-	font-family: Lato;
-	COLOR: #000000;
-	font-size: 20px;
-	font-weight: bold;
-	TEXT-DECORATION: none
-}
-.visited {
-	font-family: Lato;
-	color: #000000;
-	font-size: 20px;
-	TEXT-DECORATION: none
-}
+
 
 .big-text {
 	font-family: Lato;
@@ -36,26 +22,13 @@ A:hover
 }
 
 
-.text {
+.p1 {
 	font-family: Lato;
 	COLOR: #000000;
 	font-size: 20px; 
 }
 
 
-.text2 {
-	font-family: Lato;
-	COLOR: #000000;
-	font-size: 20px;
-	letter-spacing: 10px; 
-}
-
-.text3 {
-	font-family: Lato;
-	COLOR: #000000;
-	font-size: 20px;
-	line-height: 165%; 
-}
 
 .small_text {
 	font-family: Lato;
@@ -64,13 +37,6 @@ A:hover
 	letter-spacing: 5px;
 }
 
-.boldtext {
-	font-family: Lato;
-	COLOR: #000000;
-	font-size: 20px;
-	font-weight: bold;
-	line-height: 200%;
-}
 
 .number {
 	font-family: Lato;
@@ -84,5 +50,12 @@ A:hover
 	font-size: 16px;
 	font-weight: bold;
 	letter-spacing: 7px;
+}
+
+A:link {
+	font-family: Lato;
+	COLOR: #000000;
+	font-size: 20px;
+	TEXT-DECORATION: none
 }
 

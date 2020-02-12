@@ -5,6 +5,63 @@
 	src: url('Lato-Thin.ttf');
 }
 
+.head {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 20px;
+	letter-spacing: 10px; 
+}
+
+.h1 {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 90px;
+	letter-spacing: 14px;
+}
+
+.h2 {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 150%;
+}
+
+.p1 {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 20px;
+	line-height: 65%; 
+}
+
+.p2 {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 20px;
+	
+}
+
+.small_text {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 12px; 
+	letter-spacing: 5px;
+}
+
+
+.number {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 16px;
+	letter-spacing: 4px;
+}
+.number_bold {
+	font-family: Lato;
+	COLOR: #ffffff;
+	font-size: 16px;
+	font-weight: bold;
+	letter-spacing: 7px;
+}
 
 A:link {
 	font-family: Lato;
@@ -27,62 +84,3 @@ A:hover
 	font-size: 20px;
 	TEXT-DECORATION: none
 }
-
-.big-text {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 90px;
-	letter-spacing: 14px;
-}
-
-
-.text {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 20px; 
-}
-
-
-.text2 {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 20px;
-	letter-spacing: 10px; 
-}
-
-.text3 {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 20px;
-	line-height: 165%; 
-}
-
-.small_text {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 12px; 
-	letter-spacing: 5px;
-}
-
-.boldtext {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 20px;
-	font-weight: bold;
-	line-height: 200%;
-}
-
-.number {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 16px;
-	letter-spacing: 4px;
-}
-.number_bold {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 16px;
-	font-weight: bold;
-	letter-spacing: 7px;
-}
-
