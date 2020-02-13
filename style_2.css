@@ -27,14 +27,9 @@
 	line-height: 150%;
 }
 
-.p1 {
-	font-family: Lato;
-	COLOR: #ffffff;
-	font-size: 20px;
-	line-height: 65%; 
-}
 
-.p2 {
+
+.p1 {
 	font-family: Lato;
 	COLOR: #ffffff;
 	font-size: 20px;
@@ -67,6 +62,7 @@ A:link {
 	font-family: Lato;
 	COLOR: #FFFFFF;
 	font-size: 20px;
+	
 	TEXT-DECORATION: none
 }
 
@@ -75,8 +71,7 @@ A:hover
 	font-family: Lato;
 	COLOR: #FFFFFF;
 	font-size: 20px;
-	font-weight: bold;
-	TEXT-DECORATION: none
+
 }
 .visited {
 	font-family: Lato;
